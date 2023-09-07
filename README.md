@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/aGomez1241/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aGomez1241/azure-network-protocols)
 -  <b>Introduction to Virtual Private Networks (VPNs)</b>
-  - [VPN Setup and Explantion](https://github.com/Coder-B98/VPN)
+    - [VPN Setup and Explantion](https://github.com/Coder-B98/VPN)
 - <b> Domain Naming System (DNS) Basics</b>
     - [Using Active Directory to build intuition for DNS](https://github.com/Coder-B98/DNS)
  - <b> Network Sharing and Permissions</b>
